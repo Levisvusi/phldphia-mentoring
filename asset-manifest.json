@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/phldphia-mentoring/static/css/main.87642998.css",
+    "main.js": "/phldphia-mentoring/static/js/main.8901f43b.js",
+    "static/media/respect.png": "/phldphia-mentoring/static/media/respect.e4973a15aae5650c7d13.png",
+    "static/media/bootstrap-icons.woff?": "/phldphia-mentoring/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/banner-img.png": "/phldphia-mentoring/static/media/banner-img.70269308a11e430d4089.png",
+    "static/media/bootstrap-icons.woff2?": "/phldphia-mentoring/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/responsible.jpg": "/phldphia-mentoring/static/media/responsible.b9d7f9714f7ad132738e.jpg",
+    "static/media/philadephia_true.jpg": "/phldphia-mentoring/static/media/philadephia_true.80031e3fa72714decac0.jpg",
+    "static/media/bg.jpg": "/phldphia-mentoring/static/media/bg.b2c24870c4a072bf0e49.jpg",
+    "static/media/kindness.jpg": "/phldphia-mentoring/static/media/kindness.b0e45f4fb24ea01d2d1a.jpg",
+    "static/media/peer-pressure.jpg": "/phldphia-mentoring/static/media/peer-pressure.228e989adc09cddae833.jpg",
+    "static/media/emotions.jpg": "/phldphia-mentoring/static/media/emotions.b63bbb14f1ca156a0868.jpg",
+    "static/media/confidence.jpg": "/phldphia-mentoring/static/media/confidence.b307b562d62860618ab7.jpg",
+    "static/media/identity.jpg": "/phldphia-mentoring/static/media/identity.9d8213013c643b8ff605.jpg",
+    "static/media/self-love.jpg": "/phldphia-mentoring/static/media/self-love.c2c52680ad161003998d.jpg",
+    "static/media/middle.jpg": "/phldphia-mentoring/static/media/middle.1e43c456ffe98c1cbc8b.jpg",
+    "static/media/child2.jpg": "/phldphia-mentoring/static/media/child2.be4a8ca13ac1aaf07d4a.jpg",
+    "static/media/child1.jpg": "/phldphia-mentoring/static/media/child1.996f99ce10ccbd879b4d.jpg",
+    "static/media/child4.jpg": "/phldphia-mentoring/static/media/child4.1f55d351be4780e832bb.jpg",
+    "static/media/child3.jpg": "/phldphia-mentoring/static/media/child3.73c58ceb37a335ffd5aa.jpg",
+    "index.html": "/phldphia-mentoring/index.html",
+    "main.87642998.css.map": "/phldphia-mentoring/static/css/main.87642998.css.map",
+    "main.8901f43b.js.map": "/phldphia-mentoring/static/js/main.8901f43b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87642998.css",
+    "static/js/main.8901f43b.js"
+  ]
+}
