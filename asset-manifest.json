@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/phldphia-mentoring/static/css/main.87642998.css",
-    "main.js": "/phldphia-mentoring/static/js/main.8901f43b.js",
+    "main.js": "/phldphia-mentoring/static/js/main.c334054a.js",
     "static/media/respect.png": "/phldphia-mentoring/static/media/respect.e4973a15aae5650c7d13.png",
     "static/media/bootstrap-icons.woff?": "/phldphia-mentoring/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/banner-img.png": "/phldphia-mentoring/static/media/banner-img.70269308a11e430d4089.png",
@@ -22,10 +22,10 @@
     "static/media/child3.jpg": "/phldphia-mentoring/static/media/child3.73c58ceb37a335ffd5aa.jpg",
     "index.html": "/phldphia-mentoring/index.html",
     "main.87642998.css.map": "/phldphia-mentoring/static/css/main.87642998.css.map",
-    "main.8901f43b.js.map": "/phldphia-mentoring/static/js/main.8901f43b.js.map"
+    "main.c334054a.js.map": "/phldphia-mentoring/static/js/main.c334054a.js.map"
   },
   "entrypoints": [
     "static/css/main.87642998.css",
-    "static/js/main.8901f43b.js"
+    "static/js/main.c334054a.js"
   ]
 }
