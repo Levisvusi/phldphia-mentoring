@@ -9,22 +9,22 @@ function Limitless() {
         <TypeAnimation
           cursor={true}
           sequence={[
-            'With True Power Lies In Being Greater Than Your Previous Self.',
+            'With true power lies in being greater than your previous self.',
             3000,
             '',
-            'Great Power Comes With Greate Responsibility ',
+            'With greate power comes with greate Responsibility ',
             2000,
             '',
-            'The Power Is In the Mind',
+            'The power is in the Mind',
             2000,
             '',
-            'Power is Control, Control Is Power',
+            'Power is control, control is your Power',
             2000,
             '',
-            'Use Your Power to Change For Good',
+            'Use your power to change for Good',
             3000,
             '',
-            'You Are Worth Your Power',
+            'You are worth your Power',
             3000,
             '',
             ''
