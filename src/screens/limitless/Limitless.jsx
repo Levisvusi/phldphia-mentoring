@@ -18,7 +18,7 @@ function Limitless() {
             'The power is in the Mind',
             2000,
             '',
-            'Power is control, control is your Power',
+            'Power is your control, control is your Power',
             2000,
             '',
             'Use your power to change for Good',
