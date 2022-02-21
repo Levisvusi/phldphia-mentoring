@@ -27,6 +27,9 @@ function Limitless() {
             'You are worth your Power',
             3000,
             '',
+            'Take control of your life',
+            3000,
+            '',
             ''
           ]}
           wrapper='span'
