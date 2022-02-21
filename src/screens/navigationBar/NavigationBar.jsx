@@ -11,7 +11,7 @@ const NavigationBar = () => {
       <div className='container-fluid'>
         <a className='navbar-brand' href='/'>
           <img src={logo} alt='' width='40' height='40' />
-          <h3 className='d-inline align-middle'> Philadephia Mentoring</h3>
+          <h3 className='d-inline align-middle'> WoW Coaching</h3>
         </a>
         <button
           className='navbar-toggler'
