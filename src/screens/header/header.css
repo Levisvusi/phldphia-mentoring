@@ -1,0 +1,28 @@
+.main-info {
+  display: flex;
+  position: absolute;
+  color: var(--font-color);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  /* margin-left: 43.6%; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+/* .words-inspire,
+.lead {
+  width: 250px;
+  height: 200px;
+}
+@media screen and(min-width:768px) {
+
+  .lead {
+    margin-bottom: 182px;
+  }
+} */
+.div:hover {
+  right: 0;
+}

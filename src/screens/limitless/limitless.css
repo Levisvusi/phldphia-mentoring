@@ -1,0 +1,15 @@
+.main-info {
+  position: raletive;
+  color: var(--font-color);
+
+  /* margin-left: 43.6%; */
+
+  margin: 40px;
+  z-index: 1;
+  padding-top: 156px;
+  padding-right: 590px;
+}
+
+.div:hover {
+  right: 0;
+}
